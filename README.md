@@ -33,9 +33,7 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- LinkedIn: [Krischal Dhungel](https://www.linkedin.com/in/krischal-dhungel-742306202/)
 
 Feel free to reach out for collaboration or just a friendly chat about tech!
 
