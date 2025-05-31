@@ -36,7 +36,3 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 - LinkedIn: [Krischal Dhungel](https://www.linkedin.com/in/krischal-dhungel-742306202/)
 
 Feel free to reach out for collaboration or just a friendly chat about tech!
-
----
-
-*Note: Replace the placeholder links with your actual social media and portfolio URLs.*
