@@ -35,5 +35,6 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 ## 📫 Connect with Me
 
 - LinkedIn: [Krischal Dhungel](https://www.linkedin.com/in/krischal-dhungel-742306202/)
+- Portfolio: [Krischal Dhungel](https://portfolio-sepia-five-40.vercel.app/)
 
 Feel free to reach out for collaboration or just a friendly chat about tech!
